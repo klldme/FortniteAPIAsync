@@ -23,6 +23,6 @@ async def Provicali(request):
 
 app.run(
   host='0.0.0.0', 
-  port=8080 
+  port=6942
   workers=4
 )
