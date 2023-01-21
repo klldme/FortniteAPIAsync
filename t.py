@@ -1,3 +1,4 @@
+import sanic
 import urllib.request
 from os import system
 
